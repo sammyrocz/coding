@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/partition-problem-dp-18/ 
+
 #include<bits/stdc++.h>
 using namespace std;
 
